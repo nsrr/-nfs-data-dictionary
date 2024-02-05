@@ -1,0 +1,11 @@
+{
+  "id": "psqi_q4average",
+  "display_name": "Pittsburgh Sleep Quality Index: Hours of actual sleep at night the past month (average over weekdays and weekends)",
+  "description": "Item from Pittsburgh Sleep Quality Index. [Buysse et. al 1989 (PubMed ID: 2748771)](https://www.ncbi.nlm.nih.gov/pubmed/2748771/)<br><br>External semantic reference: [CDE](https://cde.nlm.nih.gov/deView?tinyId=m1mQgx45sHC)<br><br> [Search for all PSQI variables within this dataset](https://sleepdata.org/datasets/nfs/variables?search=psqi)",
+  "type": "numeric",
+  "labels": [
+    "psqi_04actualslp",
+    "psqi",
+    "sleep_duration"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "ravens_totalscore",
+  "display_name": "Raven's Progressive Matrics Test (shortened version): Total score",
+  "description": "Raven's Progressive Matrics Test is a non-verbal test to measure general intelligence and abstract reasoning.",
+  "type": "numeric",
+  "labels": [
+    "intelligence"
+  ]
+}

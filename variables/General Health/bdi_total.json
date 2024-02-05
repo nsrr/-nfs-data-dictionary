@@ -1,0 +1,10 @@
+{
+  "id": "bdi_total",
+  "display_name": "Beck Depression Inventory for Youth: Total score",
+  "description": "The BDI-Y contains 20 statements about thoughts, feelings, and behaviors associated with depressive symptomology within the last 2 weeks. Items are rated from 0 (Never) to 3 (Always). Total score is the sum of all 20 items and categorized as: no depression (<=13), mild depression (14 to 19), moderate depression (20 to 28), and severe depression (>=29). [Beck Youth Inventories (BYI). (2012).](http://www.excellenceforchildandyouth.ca/support-tools/measure-profile?id=335)",
+  "type": "numeric",
+  "labels": [
+    "depression",
+    "bdi"
+  ]
+}

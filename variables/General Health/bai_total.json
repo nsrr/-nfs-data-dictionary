@@ -1,0 +1,10 @@
+{
+  "id": "bai_total",
+  "display_name": "Beck Anxiety Inventory: Total score",
+  "description": "The total score is calculated based on the sum of the 21 items. Scores of 0 to 21 suggest low anxiety, 22 to 35 suggest moderate anxiety, 36 and above suggest concerning level of anxiety.  [Beck et al.,1988 (PubMed ID: 3204199)](https://pubmed.ncbi.nlm.nih.gov/3204199/)",
+  "type": "numeric",
+  "labels": [
+    "anxiety",
+    "bai"
+  ]
+}

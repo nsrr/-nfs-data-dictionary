@@ -1,0 +1,12 @@
+{
+  "id": "csrqtotalscore",
+  "display_name": "The Chronic Sleep Reduction Questionnaire: Total score",
+  "description": "Calculated - Individual items have an ordinal three-point response scale (1 to 3), and form a total CSRQ total score ranging from 20 to 60. Higher scores suggest more severe chronic sleep reduction. [Meijer A. M. (2008).(PMID: 19021856)](https://pubmed.ncbi.nlm.nih.gov/19021856/) <br><br>[Search for all CSRQ variables within this dataset](https://sleepdata.org/datasets/nfs/variables?search=csrq)",
+  "type": "numeric",
+  "labels": [
+    "csrq",
+    "subjective_sleepiness",
+    "sleep_satisfaction",
+    "sleep_related_impairment"
+  ]
+}

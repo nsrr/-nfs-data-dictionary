@@ -1,0 +1,8 @@
+folder,domain_id,value,display_name,description
+,sex,1,Female,
+,sex,0,Male,
+,nsrr_age_gt89,no,no,
+,nsrr_age_gt89,yes,yes,
+,nsrr_sex,female,female,
+,nsrr_sex,male,male,
+,nsrr_sex,not reported,not reported,
