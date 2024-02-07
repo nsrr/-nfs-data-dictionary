@@ -10,10 +10,10 @@ data<-readxl::read_excel("_source/Demographics.xlsx", sheet = "Screening_NFS1234
 # change the variable names to lower case
 colnames(data)<-tolower(colnames(data))
 colnames(data)[2]<-"sex"
-
+data$visit<-"1" # set visit number to 1 as place holder
 
 #Harmonized dataset
-harmonized_data<-data[,c("subj_id", "sex","age","bmi")]%>%
+harmonized_data<-data[,c("subj_id","visit", "sex","age","bmi")]%>%
 	dplyr::mutate(nsrr_age=age,
 				  nsrr_bmi=bmi,
 				  nsrrid=subj_id,
@@ -22,7 +22,7 @@ harmonized_data<-data[,c("subj_id", "sex","age","bmi")]%>%
 				  sex==0 ~ "male",
 				  TRUE ~ "not reported"
 				))%>%
-	select(nsrrid,nsrr_age,nsrr_sex,nsrr_bmi)	
+	select(nsrrid,visit,nsrr_age,nsrr_sex,nsrr_bmi)	
 	
 	
 write.csv(data, file=paste0("_releases/",ver,"/nfs-dataset-",ver,".csv",sep=""), row.names = F, na="")

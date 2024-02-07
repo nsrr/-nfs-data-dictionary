@@ -1,3 +1,11 @@
-slug: nfs-data-dictionary
+slug: nfs
 visit: visit
-charts: []
+charts:
+- chart: sex
+  title: Gender
+
+webservers:
+  - name: production
+    url: https://sleepdata.org
+  - name: staging
+    url: https://staging.partners.org/sleepdata.org

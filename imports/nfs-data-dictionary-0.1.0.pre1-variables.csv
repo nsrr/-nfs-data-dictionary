@@ -1,6 +1,7 @@
 folder,id,display_name,description,type,units,domain,labels,calculation,commonly_used,forms
 Administrative,subj_id,Subject ID,,identifier,,,,,TRUE,
 Administrative,nsrrid,NSRR subject identifier,The National Sleep Research Resource (NSRR) subject identifier links the subject's data and files.,identifier,,,,,TRUE,
+Administrative,visit,Visit number,,choices,,visit,,,,
 Demographics,age,Age,,numeric,,,,,TRUE,
 Anthropometry,bmi,Body mass index (BMI),,numeric,kilograms per meter squared (kg/m2),,,,TRUE,
 Demographics,sex,Sex of the participant,,choices,,sex,,,TRUE,
