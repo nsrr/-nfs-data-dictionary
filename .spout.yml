@@ -2,7 +2,7 @@ slug: nfs
 visit: visit
 charts:
 - chart: sex
-  title: Gender
+  title: Sex
 
 webservers:
   - name: production

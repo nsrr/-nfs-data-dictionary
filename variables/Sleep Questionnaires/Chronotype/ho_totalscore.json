@@ -1,7 +1,7 @@
 {
   "id": "ho_totalscore",
   "display_name": "Horne-Ostberg Morningness-Eveningness Questionnaire: Total score",
-  "description": "Calculated  Individual items are multiple choice of 4-5 point scale.  The sum gives a score ranging from 16 to 86; scores of 41 and below indicate \"evening types\", scores of 59 and above indicate \"morning types\", scores between 42-58 indicate \"intermediate types\".  [Horne JA and Ostberg O, 1976 (PubMed ID: 1027738)](https://www.ncbi.nlm.nih.gov/pubmed/1027738)<br><br> [Search for all HOMEQ variables within this dataset](https://sleepdata.org/datasets/nfs/variables?search=homeq)",
+  "description": "Calculated Individual items are multiple choice of 4-5 point scale. The sum gives a score ranging from 16 to 86; scores of 41 and below indicate \"evening types\", scores of 59 and above indicate \"morning types\", scores between 42-58 indicate \"intermediate types\".  [Horne JA and Ostberg O, 1976 (PubMed ID: 1027738)](https://www.ncbi.nlm.nih.gov/pubmed/1027738)<br><br> [Search for all HOMEQ variables within this dataset](https://sleepdata.org/datasets/nfs/variables?search=homeq)",
   "type": "numeric",
   "labels": [
     "homeq",

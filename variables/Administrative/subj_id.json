@@ -1,7 +1,7 @@
 {
   "id": "subj_id",
-  "display_name": "Subject ID",
-  "description": "",
+  "display_name": "NFS Subject ID",
+  "description": "The beginning of the Subject ID indicates the NFS protocol.",
   "type": "identifier",
   "commonly_used": true
 }
