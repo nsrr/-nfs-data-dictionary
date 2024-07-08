@@ -1,4 +1,4 @@
-ver="0.1.0.pre1"
+ver="0.1.0"
 
 library(readxl)
 library(dplyr)

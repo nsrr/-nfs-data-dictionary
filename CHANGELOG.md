@@ -1,4 +1,4 @@
-## 0.1.0 
+## 0.1.0 (July 8, 2024)
 
 - Created the nfs-data-dictionary data dictionary repository using Spout v1.0.0
 - Add initial set of demographic variables
